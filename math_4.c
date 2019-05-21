@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+//Find the largest palindrome made from the product of two 3-digit numbers
 
 //this function reverse your number
 int reverse (int a)
