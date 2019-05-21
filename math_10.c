@@ -1,6 +1,7 @@
 #include <stdio.h>
-//this function test if number is prime. It returns 1 if it's prime
+//Find the sum of all the primes below two million
 
+//this function test if number is prime. It returns 1 if it's prime
 int isprime (int num)
 {
   if (num == 1) return 0;
