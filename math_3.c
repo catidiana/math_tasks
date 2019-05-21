@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <math.h>
+//What is the largest prime factor of the number 600851475143
+
 //this function test if number is prime. It returns 1 if it's prime
 int isprime (int num)
 {
