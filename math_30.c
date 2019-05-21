@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Find the sum of all the numbers that can be written as the sum of fifth powers of their digits
 #define POWER 5
 
 int pow(int a, int b) //calculat a^b
