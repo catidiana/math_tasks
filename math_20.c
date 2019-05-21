@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Find the sum of the digits in the number 100!
 #define FACT 100
 
 int main()
