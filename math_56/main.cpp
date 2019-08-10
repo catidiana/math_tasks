@@ -3,9 +3,6 @@
 
 using namespace std;
 
-
-
-
 int main()
 {
     Unsigned_Big_Integer max(0);
